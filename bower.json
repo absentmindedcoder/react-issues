@@ -1,0 +1,7 @@
+{
+  "name": "react-issues",
+  "dependencies": {
+    "react": "0.13.3",
+    "rest": "~1.3.1"
+  }
+}
